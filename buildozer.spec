@@ -211,6 +211,7 @@ android.archs = armeabi-v7a,arm64-v8a
 
 # (list) Permissions
 [app:android.permissions]
+MANAGE_EXTERNAL_STORAGE
 READ_EXTERNAL_STORAGE
 WRITE_EXTERNAL_STORAGE
 ACCESS_LOCATION_EXTRA_COMMANDS
